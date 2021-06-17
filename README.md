@@ -33,8 +33,8 @@
   - Fact Check writeup: [WIP: Does WordPress work in China?](#)
 - Strapi
   - Fact Check writeup: [WIP: Does Strapi work in China?](#)
-- DotoCMS
-  - Fact Check writeup: [WIP: Does DotoCMS work in China?](#)
+- DatoCMS
+  - Fact Check writeup: [WIP: Does DatoCMS work in China?](#)
 - Cosmic
   - Fact Check writeup: [WIP: Does Cosmic work in China?](#)
 
